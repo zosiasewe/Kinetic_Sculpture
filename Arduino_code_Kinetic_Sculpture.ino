@@ -1,3 +1,6 @@
+// Done by Zofia Sewerynska
+// 2023, Poland
+
 #include "Wire.h"  // Biblioteka Wire używana do komunikacji szeregowej (I2C)
 #include "Adafruit_PWMServoDriver.h"  // Biblioteka do obsługi modułu sterownika serwomechanizmów PCA9685
 #include <SoftwareSerial.h>  // Biblioteka do obsługi komunikacji szeregowej za pomocą oprogramowania
