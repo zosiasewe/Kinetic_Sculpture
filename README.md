@@ -1,4 +1,4 @@
-# 🎨 Kinetic_Sculpture
+#  Project of a robotic kinetic sculpture installation
 
 A kinetic sculpture with a heart of **Arduino Uno**, designed and built as part of a Bachelor's thesis. The sculpture is controllable via a custom Android application, enabling dynamic, programmable motion. This project combines **robotics**, **3D printing**, and **mobile development** to create an interactive artistic installation.
 
@@ -33,10 +33,10 @@ The system was designed with a **modular architecture**, featuring:
 
 ##  Key Features
 
-- 🌀 Multiple servo motors working in coordinated motion
-- 📱 Real-time mobile control via Android app
-- 🧩 Modular design (both mechanical and electrical)
-- 🖨 Custom-designed 3D-printed parts for the servo mounts and platforms
+-  Multiple servo motors working in coordinated motion
+-  Real-time mobile control via Android app
+-  Modular design (both mechanical and electrical)
+-  Custom-designed 3D-printed parts for the servo mounts and platforms
 
 ##  Challenges Faced
 
